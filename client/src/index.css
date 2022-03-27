@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+}
+html, body{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  width: 100%;
+  height: 100vh;
+  background: linear-gradient(#fa973a77,#f6b83b94),url('https://images.pexels.com/photos/5327008/pexels-photo-5327008.jpeg?auto=compress&crop=focalpoint&cs=tinysrgb&fit=crop&fp-y=0.56&h=500&sharp=15&w=1500');
+}
